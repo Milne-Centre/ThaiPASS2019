@@ -1,3 +1,3 @@
 # ThaiPASS2019
 
-### I LIKE MY TITLES SMOL...
+This directory contains all the material that we will use during the ThaiPASS school.
