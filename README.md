@@ -17,3 +17,9 @@ Full description, with brief lecture notes, of the Forward Euler Method. Model a
 Lecture notes and tasks covering dark matter, rotation curves of galaxies and the effect of supernovae on galactic dynamics.
 
 Days 1 and 3 are more code-orientated, days 2 and 4 are more knowlede focussed, however all 4 days require students to develop their python skills.
+
+## Pre-Tasks
+Problems and solutions for mandatory work pre-attendance. Contains the Basic and Advanced notebooks.
+
+## DATA_FOR_TASKS
+Data for the Hertzsprung-Russell diagram task
